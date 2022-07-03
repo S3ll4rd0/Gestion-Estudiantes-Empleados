@@ -1,0 +1,17 @@
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\bin\Release\net6.0-windows\InterfacesYClasesAbstractas.exe
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\bin\Release\net6.0-windows\InterfacesYClasesAbstractas.deps.json
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\bin\Release\net6.0-windows\InterfacesYClasesAbstractas.runtimeconfig.json
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\bin\Release\net6.0-windows\InterfacesYClasesAbstractas.dll
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\bin\Release\net6.0-windows\InterfacesYClasesAbstractas.pdb
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.csproj.AssemblyReference.cache
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.Form1.resources
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.csproj.GenerateResource.cache
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.AssemblyInfoInputs.cache
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.AssemblyInfo.cs
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.csproj.CoreCompileInputs.cache
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.dll
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\refint\InterfacesYClasesAbstractas.dll
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.pdb
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\InterfacesYClasesAbstractas.genruntimeconfig.cache
+D:\02.Drive\00.Proyectos\03.C#\01.Windows Forms\InterfacesYClasesAbstractas\obj\Release\net6.0-windows\ref\InterfacesYClasesAbstractas.dll
